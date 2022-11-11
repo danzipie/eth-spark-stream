@@ -2,5 +2,5 @@ gevent==1.4.0
 greenlet==0.4.15
 kafka-python==1.4.7
 py4j==0.10.7
-pyspark==2.4.4
+pyspark==3.2.2
 websockets==8.1
